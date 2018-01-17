@@ -7,13 +7,6 @@
   <version>1.1</version>
   <packaging>war</packaging>
   
-   <parent>
-  
-  <groupId>wezva</groupId>
-  <artifactId>demo</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  </parent>
-
   <name>Calculator-Project</name>
   <url>http://maven.apache.org</url>
 
